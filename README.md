@@ -204,31 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Screenshots
 
-*Include actual screenshots of your application here*
 
-1. **Login Screen**  
-   ![Login Screen](screenshots/login.png)
 
-2. **Chat Interface**  
-   ![Chat Interface](screenshots/chat.png)
-
-3. **Mobile View**  
-   ![Mobile View](screenshots/mobile.png)
-
-## Roadmap
-
-- [ ] Add user authentication
-- [ ] Implement message persistence
-- [ ] Add file sharing capability
-- [ ] Implement typing indicators
-- [ ] Add emoji support
-
-## Support
-
-For support, please open an issue on GitHub or contact the maintainer directly.
-
----
-
-*Replace placeholder images and text with actual content before publishing*
